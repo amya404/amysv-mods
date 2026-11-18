@@ -1,0 +1,109 @@
+{
+  "seq": 20261118131810,
+  "generated": "2026-11-18 13:18:10",
+  "updater_version": 1,
+  "packages": [
+    {
+      "Name": "BepInExPack_Valheim",
+      "Version": "5.4.2360",
+      "Url": "https://thunderstore.io/package/download/denikson/BepInExPack_Valheim/5.4.2360/",
+      "Sha256": "6BCA77B1016ACFE0FFAEBB6534C84B12AE8D12E5A96ABBF59EC6E4526204FC6F",
+      "Source": "BepInExPack_Valheim",
+      "Target": "",
+      "Include": null,
+      "Role": "player"
+    },
+    {
+      "Name": "FiresGhettoNetworking",
+      "Version": "1.6.51",
+      "Url": "https://thunderstore.io/package/download/VerdantsAscent/FiresGhettoNetworking/1.6.51/",
+      "Sha256": "E3CD0035A448F51423A0F0ED33934A27C611429DFC6C688440DEE01C8441F8AB",
+      "Source": "plugins",
+      "Target": "BepInEx/plugins",
+      "Include": null,
+      "Role": "player"
+    },
+    {
+      "Name": "RunicCharacterVault",
+      "Version": "1.0.4",
+      "Url": "https://thunderstore.io/package/download/Chazman/RunicCharacterVault/1.0.4/",
+      "Sha256": "87E22C85238CA91308AE4418F4296EE7D83A07B35429754A486AE9BB7A7C432C",
+      "Source": "plugins",
+      "Target": "BepInEx/plugins",
+      "Include": null,
+      "Role": "player"
+    },
+    {
+      "Name": "Jotunn",
+      "Version": "2.30.2",
+      "Url": "https://thunderstore.io/package/download/ValheimModding/Jotunn/2.30.2/",
+      "Sha256": "8AAE92DA2BE0EB6820CD4CF57E2F6C1D6AD0D738D4915966E7C3D7A94E9A9B0F",
+      "Source": "plugins",
+      "Target": "BepInEx/plugins/Jotunn",
+      "Include": [
+        "Jotunn.dll"
+      ],
+      "Role": "player"
+    },
+    {
+      "Name": "AdvancedHeightMap",
+      "Version": "0.1.0",
+      "Url": "https://thunderstore.io/package/download/Searica/AdvancedHeightMap/0.1.0/",
+      "Sha256": "2F22FB8D8F959BBCF6E28F7FA3B0CD1EEC9C21A8D6DBD3DAAD177076A7559B03",
+      "Source": ".",
+      "Target": "BepInEx/plugins/AdvancedHeightMap",
+      "Include": [
+        "AdvancedHeightMap.dll"
+      ],
+      "Role": "player"
+    },
+    {
+      "Name": "AMYSV_DungeonPins",
+      "Version": "1.0.0",
+      "Url": "https://raw.githubusercontent.com/amya404/amysv-mods/main/mods/AMYSV-DungeonPins-1.0.0.zip",
+      "Sha256": "C2830AB06C3B4F42BCF43FAA0CB3CB5BB6B526EBFDB0A31100609EBBBC9C2155",
+      "Source": "plugins",
+      "Target": "BepInEx/plugins/AMYSV-DungeonPins",
+      "Include": [
+        "AMYSV.DungeonPins.dll"
+      ],
+      "Role": "player"
+    }
+  ],
+  "admin_packages": [
+    {
+      "Name": "Server_devcommands",
+      "Version": "1.116.0",
+      "Url": "https://thunderstore.io/package/download/JereKuusela/Server_devcommands/1.116.0/",
+      "Sha256": "3782B6D83922AF5E40473E884BECA0AC3FCC41C89848A2AE68773A0868F5FB97",
+      "Source": ".",
+      "Target": "BepInEx/plugins/ServerDevcommands",
+      "Include": [
+        "ServerDevcommands.dll"
+      ],
+      "Role": "admin"
+    },
+    {
+      "Name": "AchievementEnabler",
+      "Version": "0.5.2",
+      "Url": "https://thunderstore.io/package/download/MidnightMods/AchievementEnabler/0.5.2/",
+      "Sha256": "8B123D49EDE6D6E7CC3FC9D4E6148613A9266A65923AE6587FACED3D8DA33952",
+      "Source": "plugins",
+      "Target": "BepInEx/plugins",
+      "Include": null,
+      "Role": "admin"
+    },
+    {
+      "Name": "AdvancedTerrainModifiers",
+      "Version": "1.6.1",
+      "Url": "https://thunderstore.io/package/download/Searica/AdvancedTerrainModifiers/1.6.1/",
+      "Sha256": "F0C6F378EBDC5F6DF25D0BB0DCE9CE7845304998DD91743F0C1D0F93917AD5CA",
+      "Source": ".",
+      "Target": "BepInEx/plugins/AdvancedTerrainModifiers",
+      "Include": [
+        "TerrainTools.dll"
+      ],
+      "Role": "admin"
+    }
+  ]
+}
