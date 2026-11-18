@@ -1,6 +1,6 @@
 {
-  "seq": 20261118180115,
-  "generated": "2026-11-18 18:01:15",
+  "seq": 20261118181312,
+  "generated": "2026-11-18 18:13:12",
   "updater_version": 1,
   "packages": [
     {
@@ -71,9 +71,9 @@
     },
     {
       "Name": "AMYSV_NoBuildOverride",
-      "Version": "1.0.0",
-      "Url": "https://raw.githubusercontent.com/amya404/amysv-mods/main/mods/AMYSV-NoBuildOverride-1.0.0.zip",
-      "Sha256": "2FC74AFED0704AABBB99FC80FFA49BDFFCF9CA6D8F86450601FFCC1FD17F6E19",
+      "Version": "1.0.1",
+      "Url": "https://raw.githubusercontent.com/amya404/amysv-mods/main/mods/AMYSV-NoBuildOverride-1.0.1.zip",
+      "Sha256": "A099D19F59682A7229A7DB6C1A10A2F0151B9E6CA12F112A26621B0813E4726F",
       "Source": "plugins",
       "Target": "BepInEx/plugins/AMYSV-NoBuildOverride",
       "Include": [
