@@ -1,6 +1,6 @@
 {
-  "seq": 20261118170422,
-  "generated": "2026-11-18 17:04:22",
+  "seq": 20261118180115,
+  "generated": "2026-11-18 18:01:15",
   "updater_version": 1,
   "packages": [
     {
@@ -59,13 +59,25 @@
     },
     {
       "Name": "AMYSV_DungeonPins",
-      "Version": "1.1.0",
-      "Url": "https://raw.githubusercontent.com/amya404/amysv-mods/main/mods/AMYSV-DungeonPins-1.1.0.zip",
-      "Sha256": "CB9EE023FDB9EB12B8A27DC7CB9CBBC65788A86F58A150A3EE86F64C641A85EE",
+      "Version": "1.1.1",
+      "Url": "https://raw.githubusercontent.com/amya404/amysv-mods/main/mods/AMYSV-DungeonPins-1.1.1.zip",
+      "Sha256": "00092708ACC4F36BF4AFBCDD13E57A068032BB4AA7B6A9C892B5B81B1610963C",
       "Source": "plugins",
       "Target": "BepInEx/plugins/AMYSV-DungeonPins",
       "Include": [
         "AMYSV.DungeonPins.dll"
+      ],
+      "Role": "player"
+    },
+    {
+      "Name": "AMYSV_NoBuildOverride",
+      "Version": "1.0.0",
+      "Url": "https://raw.githubusercontent.com/amya404/amysv-mods/main/mods/AMYSV-NoBuildOverride-1.0.0.zip",
+      "Sha256": "2FC74AFED0704AABBB99FC80FFA49BDFFCF9CA6D8F86450601FFCC1FD17F6E19",
+      "Source": "plugins",
+      "Target": "BepInEx/plugins/AMYSV-NoBuildOverride",
+      "Include": [
+        "AMYSV.NoBuildOverride.dll"
       ],
       "Role": "player"
     }
