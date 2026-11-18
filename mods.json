@@ -1,6 +1,6 @@
 {
-  "seq": 20261118143324,
-  "generated": "2026-11-18 14:33:24",
+  "seq": 20261118165318,
+  "generated": "2026-11-18 16:53:18",
   "updater_version": 1,
   "packages": [
     {
@@ -59,9 +59,9 @@
     },
     {
       "Name": "AMYSV_DungeonPins",
-      "Version": "1.0.2",
-      "Url": "https://raw.githubusercontent.com/amya404/amysv-mods/main/mods/AMYSV-DungeonPins-1.0.2.zip",
-      "Sha256": "1DA478A26A64B555A43556406FD496816F398046544698D99E2898A2C2E3DFB5",
+      "Version": "1.0.3",
+      "Url": "https://raw.githubusercontent.com/amya404/amysv-mods/main/mods/AMYSV-DungeonPins-1.0.3.zip",
+      "Sha256": "9C6CACB16D0A477209F75624E07A423DE458247B2D37617DAA03436315F3DFA6",
       "Source": "plugins",
       "Target": "BepInEx/plugins/AMYSV-DungeonPins",
       "Include": [
